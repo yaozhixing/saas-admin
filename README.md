@@ -1,24 +1,18 @@
-# saas-admin
+## saas-admin
+这是一个vue2.x 后台管理系统，提供大家方便便捷的管理的后台操作！
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### 预览
+http://blog.dannyee.com/saas-admin/dist/index.html
 
-### Compiles and minifies for production
+#### 启动
 ```
-npm run build
+npm i
+npm start
 ```
 
-### Lints and fixes files
+#### 打包
 ```
-npm run lint
+npm build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
